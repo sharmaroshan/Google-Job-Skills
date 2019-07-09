@@ -11,17 +11,17 @@ There is a question in our mind that which language, skills, and experience shou
 # Content
 This dataset is collected using Selenium by scraping all of the jobs text for Google Career site. About the column
 
-Title: The title of the job
+* Title: The title of the job
 
-Category: Category of the job
+* Category: Category of the job
 
-Location: Location of the job
+* Location: Location of the job
 
-Responsibilities: Responsibilities for the job
+* Responsibilities: Responsibilities for the job
 
-Minimum Qualifications: Minimum Qualifications for the job
+* Minimum Qualifications: Minimum Qualifications for the job
 
-Preferred Qualifications: Preferred Qualifications for the job
+* Preferred Qualifications: Preferred Qualifications for the job
 
 # Acknowledgements
 This dataset is collected using Selenium. This product uses the Google Career site but is not endorsed or certified by Google Career site.
